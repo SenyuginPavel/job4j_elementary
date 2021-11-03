@@ -25,3 +25,5 @@ Intern Java Developer
 9. Интерфейсы.
 
 10. Исключения. Структура исключений. Формирование исключений. Обработка в операторе.
+11. ![Image of Yaktocat](job4j_elementary/images/2021-11-03_12-42-45.png)
+12.  ![Image of Yaktocat](job4j_elementary/images/2021-11-03_12-49-41.png)
