@@ -1,10 +1,10 @@
 package ru.job4j.loop;
 
 public class Counter {
-    public static int sum(int start, int finich) {
+    public static int sum(int start, int finish) {
         int sum = 0;
-        for (sum = start; sum <= finich; sum++) {
-            sum = start + finich;
+        for (int i = start; i <= finish; i++) {
+            sum = start + i;
 
         }
         return sum;
